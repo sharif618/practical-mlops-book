@@ -1,3 +1,18 @@
+## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
+
+### 🔥 Hot Course Offers:
+* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
+* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) - Industry-Grade Development
+* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) - Scale Your ML in Cloud
+* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) - Deploy at Enterprise Scale
+* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) - Automate Everything
+
+### 🚀 Level Up Your Career:
+* 💼 [Production ML Program](https://paiml.com) - Complete MLOps & Cloud Mastery
+* 🎯 [Start Learning Now](https://ds500.paiml.com) - Fast-Track Your ML Career
+* 🏢 Trusted by Fortune 500 Teams
+
+Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
 ## Practical MLOps, an O'Reilly Book
 
 This is a public repo where code samples are stored for the book Practical MLOps.
@@ -103,3 +118,7 @@ This section includes "community" recipes.  Many "may" be included in the book i
 * [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
 * [Cloud Data Engineering](https://www.coursera.org/learn/cloud-data-engineering-duke?specialization=building-cloud-computing-solutions-at-scale)
 * [Cloud Machine Learning Engineering and MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale)
+
+
+* [✨Pragmatic AI Labs builds courses on edX](https://insight.paiml.com/d69)
+* [ 💬 Join our Discord community](https://discord.gg/ZrjWxKay)
